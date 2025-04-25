@@ -54,7 +54,6 @@ body{
 
 .hover{
     transition: all 0.3s;
-
 }
 
 .hover:hover{
@@ -195,7 +194,7 @@ p .name-style{
 }
 
 .project2{
-    grid-column: 2 /3;
+    grid-column: 2;
     grid-row: 1;
     padding: 10px 20px;
 }
@@ -523,7 +522,7 @@ button:hover{
 .footer-bottom img{
     width: 5em;
     height: 5em;
-    }
+}
 
 .footer-bottom p{
     align-self: center;
